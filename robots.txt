@@ -1,0 +1,11 @@
+# ZABI GROUP SARL - Robots.txt
+# https://zabigroup.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://zabigroup.com/sitemap.xml
+
+# Crawl-delay suggestion
+Crawl-delay: 10
